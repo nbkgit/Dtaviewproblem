@@ -2,7 +2,7 @@ Our Software uses a sql server. and no spaces or German special characters are u
 
 Our customer has a American windows 11 and has the same problem tat came this week from fedayee to wednes day
 
-I added a sql script for the database, so tat you can use the software. in the debug folder you find a konfiguration.xml where you need to change the ip adress of the sql sever you are using.
+I added a sql script for the database, so that you can use the software. in the debug folder you find a konfiguration.xml where you need to change the ip adress of the sql sever you are using.
 
 When you start the software you are ask for a user and password there you click simply on ok
 The next messagebox has also be closed by using the OK button
